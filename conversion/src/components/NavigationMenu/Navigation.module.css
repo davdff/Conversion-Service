@@ -1,0 +1,31 @@
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation {
+  height: 90px;
+}
+
+.navigation__login_container {
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation__login_container img {
+  margin-top: 35px;
+  width: 20px;
+  height: 22px;
+}
+.navigation__login_title {
+  margin-top: 35px;
+  color: #1f1e25;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
