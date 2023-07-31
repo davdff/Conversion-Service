@@ -1,8 +1,8 @@
 import { Main } from "./Main";
 import styles from "./Converter.module.css";
-import background from "../../image/main_background.png";
-import whiteCard from "../../image/white_card.png";
-import blackCard from "../../image/black_card.jpg";
+import background from "../../assets/image/main_background.png";
+import whiteCard from "../../assets/image/white_card.png";
+import blackCard from "../../assets/image/black_card.jpg";
 
 export function PromoSections() {
     return (

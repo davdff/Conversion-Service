@@ -4,8 +4,8 @@ import { Nav } from "../../share/NavItems"
 import { Phone } from "./Phone"
 
 import styles from "./Footer.module.css"
-import phone from "../../image/phone.svg"
-import number from "../../image/number.svg"
+import phone from "../../assets/image/phone.svg"
+import number from "../../assets/image/number.svg"
 
 
 

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import logo from "../image/logo.png"
+import logo from "../assets/image/logo.png"
 import styles from "./Share.module.css";
 
 

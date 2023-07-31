@@ -1,4 +1,4 @@
-import cabinetIcon from "../../image/login.svg";
+import cabinetIcon from "../../assets/image/login.svg";
 import styles from "./Navigation.module.css";
 export function Cabinet() {
 

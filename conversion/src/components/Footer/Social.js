@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom"
 
-import facebook from "../../image/facebook_logo.svg"
-import instagram from "../../image/inst_loto.svg"
-import twitter from "../../image/twitter_logo.svg"
-import youtube from "../../image/youtube_logo.svg"
+import facebook from "../../assets/image/facebook_logo.svg"
+import instagram from "../../assets/image/inst_loto.svg"
+import twitter from "../../assets/image/twitter_logo.svg"
+import youtube from "../../assets/image/youtube_logo.svg"
 import styles from "./Footer.module.css"
 
 
