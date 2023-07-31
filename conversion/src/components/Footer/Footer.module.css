@@ -1,0 +1,55 @@
+.footer {
+  height: 225px;
+  background: #f6f7ff;
+}
+.container {
+  padding-top: 60px;
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__adress_wrapper {
+  width: 250px;
+  margin-top: 0;
+}
+.footer__adress_wrapper .navigation__header_container {
+  margin-top: 0;
+}
+.footer__address_descr {
+  margin-top: 20px;
+  color: #707c87;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+.footer__phone_wrapper {
+  display: flex;
+}
+.footer__phone_img {
+  margin-right: 20px;
+}
+
+.footer__phone_title {
+  color: #1f1e25;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+}
+.footer__phone_descr {
+  margin-top: 5px;
+  color: #707c87;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+.footer__social_wrapper img {
+  margin-right: 15px;
+}
